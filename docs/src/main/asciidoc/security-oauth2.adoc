@@ -145,7 +145,7 @@ $ ./mvnw clean compile quarkus:dev
 [INFO] Building security-oauth2-quickstart 1.0-SNAPSHOT
 [INFO] --------------------------------[ jar ]---------------------------------
 ...
-[INFO] --- quarkus-maven-plugin:999-SNAPSHOT:dev (default-cli) @ security-oauth2-quickstart ---
+[INFO] --- quarkus-maven-plugin:1.1.2-SNAPSHOT:dev (default-cli) @ security-oauth2-quickstart ---
 Listening for transport dt_socket at address: 5005
 2019-07-16 09:58:09,753 INFO  [io.qua.dep.QuarkusAugmentor] (main) Beginning quarkus augmentation
 2019-07-16 09:58:10,884 INFO  [io.qua.dep.QuarkusAugmentor] (main) Quarkus augmentation completed in 1131ms

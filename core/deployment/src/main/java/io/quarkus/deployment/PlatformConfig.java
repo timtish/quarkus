@@ -27,6 +27,6 @@ public class PlatformConfig {
     /**
      * version of the platform to use
      */
-    @ConfigItem(defaultValue = "999-SNAPSHOT")
+    @ConfigItem(defaultValue = "1.1.2-SNAPSHOT")
     String version;
 }

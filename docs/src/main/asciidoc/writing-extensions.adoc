@@ -1864,7 +1864,7 @@ When you start a Quarkus instance, you will see a line like the one highlighted 
 .Example Startup Lines
 [source, bash]
 ----
-2019-03-22 14:02:37,884 INFO  [io.quarkus] (main) Quarkus 999-SNAPSHOT started in 0.061s.
+2019-03-22 14:02:37,884 INFO  [io.quarkus] (main) Quarkus 1.1.2-SNAPSHOT started in 0.061s.
 2019-03-22 14:02:37,884 INFO  [io.quarkus] (main) Installed features: [cdi, test-extension] <1>
 ----
 <1> A list of features installed in the runtime image

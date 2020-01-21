@@ -28,7 +28,7 @@ To open a connection to a different host or with different authentication from t
 pass on your details as system properties, i.e.:
 
 ```
-./target/quarkus-integration-test-neo4j-999-SNAPSHOT-runner -Dquarkus.neo4j.uri=bolt://localhost:7687
+./target/quarkus-integration-test-neo4j-1.1.2-SNAPSHOT-runner -Dquarkus.neo4j.uri=bolt://localhost:7687
 ```
 
 

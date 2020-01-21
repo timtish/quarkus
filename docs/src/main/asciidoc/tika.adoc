@@ -200,7 +200,7 @@ Listening for transport dt_socket at address: 5005
 2019-10-15 14:23:26,960 INFO  [io.qua.resteasy] (build-15) Resteasy running without servlet container.
 2019-10-15 14:23:26,960 INFO  [io.qua.resteasy] (build-15) - Add quarkus-undertow to run Resteasy within a servlet container
 2019-10-15 14:23:26,991 INFO  [io.qua.dep.QuarkusAugmentor] (main) Quarkus augmentation completed in 549ms
-2019-10-15 14:23:27,637 INFO  [io.quarkus] (main) Quarkus 999-SNAPSHOT started in 1.361s. Listening on: http://0.0.0.0:8080
+2019-10-15 14:23:27,637 INFO  [io.quarkus] (main) Quarkus 1.1.2-SNAPSHOT started in 1.361s. Listening on: http://0.0.0.0:8080
 2019-10-15 14:23:27,638 INFO  [io.quarkus] (main) Profile dev activated. Live Coding activated.
 2019-10-15 14:23:27,639 INFO  [io.quarkus] (main) Installed features: [cdi, resteasy, tika]
 ----

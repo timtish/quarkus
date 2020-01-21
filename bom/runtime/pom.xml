@@ -5,7 +5,7 @@
     <parent>
         <artifactId>quarkus-parent</artifactId>
         <groupId>io.quarkus</groupId>
-        <version>999-SNAPSHOT</version>
+        <version>1.1.2-SNAPSHOT</version>
         <relativePath>../../pom.xml</relativePath>
     </parent>
     <modelVersion>4.0.0</modelVersion>
@@ -1142,20 +1142,6 @@
                 <version>${quarkus-security.version}</version>
             </dependency>
             <dependency>
-                <!-- NOTE: this dependency is here to cause relocations to work; DO NOT MODIFY -->
-                <groupId>io.smallrye</groupId>
-                <artifactId>smallrye-config</artifactId>
-                <!-- This is intentionally hard-coded -->
-                <version>1.5.0</version>
-            </dependency>
-            <dependency>
-                <!-- NOTE: this dependency is here to cause relocations to work; DO NOT MODIFY -->
-                <groupId>io.smallrye</groupId>
-                <artifactId>smallrye-config-common</artifactId>
-                <!-- This is intentionally hard-coded -->
-                <version>1.5.0</version>
-            </dependency>
-            <dependency>
                 <groupId>io.smallrye.config</groupId>
                 <artifactId>smallrye-config</artifactId>
                 <version>${smallrye-config.version}</version>
@@ -1660,7 +1646,7 @@
             <dependency>
                 <groupId>com.oracle.substratevm</groupId>
                 <artifactId>svm</artifactId>
-                <version>${graal-sdk.version}</version>
+                <version>19.2.1</version>
                 <scope>provided</scope>
                 <!-- We only want the included annotations -->
                 <exclusions>

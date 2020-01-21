@@ -23,7 +23,7 @@ Local development
 2. Create a sample project using the Maven plugin:
 
 ```bash
-    mvn io.quarkus:quarkus-maven-plugin:999-SNAPSHOT:create \
+    mvn io.quarkus:quarkus-maven-plugin:1.1.2-SNAPSHOT:create \
         -DprojectGroupId=org.acme \
         -DprojectArtifactId=my-gradle-project \
         -DclassName="org.acme.quickstart.GreetingResource" \

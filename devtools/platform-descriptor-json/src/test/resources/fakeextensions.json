@@ -3,7 +3,7 @@
     "bom": {
         "group-id": "io.quarkus",
         "artifact-id": "quarkus-bom",
-        "version": "999-SNAPSHOT"
+        "version": "1.1.2-SNAPSHOT"
     },
     
     "categories": [
@@ -30,7 +30,7 @@
             "short-name": "wonka",
             "group-id": "io.quarkus",
             "artifact-id": "quarkus-core",
-            "version": "999-SNAPSHOT",
+            "version": "1.1.2-SNAPSHOT",
             "description": "Build parent to bring in required dependencies"
         },
         {
@@ -47,7 +47,7 @@
             },
             "group-id": "io.quarkus",
             "artifact-id": "quarkus-arc",
-            "version": "999-SNAPSHOT",
+            "version": "1.1.2-SNAPSHOT",
             "description": "Build time CDI dependency injection"
         },
         {
@@ -55,7 +55,7 @@
             },
             "group-id": "io.quarkus",
             "artifact-id": "quarkus-caffeine",
-            "version": "999-SNAPSHOT",
+            "version": "1.1.2-SNAPSHOT",
             "name": "Quarkus - Caffeine - Runtime",
             "description": "A high performance caching library for Java 8+"
         },
@@ -64,7 +64,7 @@
             },
             "group-id": "io.quarkus",
             "artifact-id": "quarkus-jaxb",
-            "version": "999-SNAPSHOT",
+            "version": "1.1.2-SNAPSHOT",
             "name": "Quarkus - JAXB - Runtime",
             "description": "XML serialization support"
         },
@@ -78,7 +78,7 @@
             },
             "group-id": "io.quarkus",
             "artifact-id": "quarkus-jackson",
-            "version": "999-SNAPSHOT",
+            "version": "1.1.2-SNAPSHOT",
             "description": "Jackson Databind support"
         },
         {
@@ -93,7 +93,7 @@
             },
             "group-id": "io.quarkus",
             "artifact-id": "quarkus-jsonb",
-            "version": "999-SNAPSHOT",
+            "version": "1.1.2-SNAPSHOT",
             "description": "JSON Binding support"
         },
         {
@@ -107,7 +107,7 @@
             },
             "group-id": "io.quarkus",
             "artifact-id": "quarkus-jsonp",
-            "version": "999-SNAPSHOT",
+            "version": "1.1.2-SNAPSHOT",
             "description": "JSON Processing support"
         },
         {
@@ -115,7 +115,7 @@
             },
             "group-id": "io.quarkus",
             "artifact-id": "quarkus-netty",
-            "version": "999-SNAPSHOT",
+            "version": "1.1.2-SNAPSHOT",
             "name": "Quarkus - Netty - Runtime",
             "description": "Netty is a non-blocking I/O client-server framework. Used by Quarkus as foundation layer."
         },
@@ -129,7 +129,7 @@
             },
             "group-id": "io.quarkus",
             "artifact-id": "quarkus-agroal",
-            "version": "999-SNAPSHOT",
+            "version": "1.1.2-SNAPSHOT",
             "description": "Pool your database connections (included in Hibernate ORM)"
         },
         {
@@ -142,7 +142,7 @@
             },
             "group-id": "io.quarkus",
             "artifact-id": "quarkus-artemis-core",
-            "version": "999-SNAPSHOT",
+            "version": "1.1.2-SNAPSHOT",
             "description": "Use ActiveMQ Artemis as message broker"
         },
         {
@@ -155,7 +155,7 @@
             },
             "group-id": "io.quarkus",
             "artifact-id": "quarkus-artemis-jms",
-            "version": "999-SNAPSHOT",
+            "version": "1.1.2-SNAPSHOT",
             "description": "Use ActiveMQ Artemis as a JMS implementation"
         },
         {
@@ -163,7 +163,7 @@
             },
             "group-id": "io.quarkus",
             "artifact-id": "quarkus-elasticsearch-rest-client",
-            "version": "999-SNAPSHOT",
+            "version": "1.1.2-SNAPSHOT",
             "name": "Quarkus - Elasticsearch REST client - Runtime",
             "description": "Elasticsearch REST client"
         },
@@ -176,7 +176,7 @@
             },
             "group-id": "io.quarkus",
             "artifact-id": "quarkus-security",
-            "version": "999-SNAPSHOT",
+            "version": "1.1.2-SNAPSHOT",
             "description": "Security"
         },
         {
@@ -184,7 +184,7 @@
             },
             "group-id": "io.quarkus",
             "artifact-id": "quarkus-elytron-security",
-            "version": "999-SNAPSHOT",
+            "version": "1.1.2-SNAPSHOT",
             "name": "Quarkus - Elytron Security - Runtime",
             "description": "Secure your services"
         },
@@ -198,7 +198,7 @@
             },
             "group-id": "io.quarkus",
             "artifact-id": "quarkus-elytron-security-properties-file",
-            "version": "999-SNAPSHOT",
+            "version": "1.1.2-SNAPSHOT",
             "description": "Secure your applications using properties files"
         },
         {
@@ -211,7 +211,7 @@
             },
             "group-id": "io.quarkus",
             "artifact-id": "quarkus-elytron-security-oauth2",
-            "version": "999-SNAPSHOT",
+            "version": "1.1.2-SNAPSHOT",
             "description": "Secure your applications with OAuth2 opaque tokens"
         },
         {
@@ -225,7 +225,7 @@
             },
             "group-id": "io.quarkus",
             "artifact-id": "quarkus-oidc",
-            "version": "999-SNAPSHOT",
+            "version": "1.1.2-SNAPSHOT",
             "description": "Secure your applications with OpenID Connect and Keycloak"
         },
         {
@@ -240,7 +240,7 @@
             },
             "group-id": "io.quarkus",
             "artifact-id": "quarkus-flyway",
-            "version": "999-SNAPSHOT",
+            "version": "1.1.2-SNAPSHOT",
             "description": "Handle your database schema migrations"
         },
         {
@@ -256,7 +256,7 @@
             },
             "group-id": "io.quarkus",
             "artifact-id": "quarkus-hibernate-orm",
-            "version": "999-SNAPSHOT",
+            "version": "1.1.2-SNAPSHOT",
             "description": "Define your persistent model with Hibernate ORM and JPA"
         },
         {
@@ -272,7 +272,7 @@
             },
             "group-id": "io.quarkus",
             "artifact-id": "quarkus-hibernate-orm-panache",
-            "version": "999-SNAPSHOT",
+            "version": "1.1.2-SNAPSHOT",
             "description": "Define your persistent model in Hibernate ORM with Panache"
         },
         {
@@ -288,7 +288,7 @@
             },
             "group-id": "io.quarkus",
             "artifact-id": "quarkus-mongodb-panache",
-            "version": "999-SNAPSHOT",
+            "version": "1.1.2-SNAPSHOT",
             "description": "Use an active record or repository pattern with MongoDB"
         },
         {
@@ -305,7 +305,7 @@
             },
             "group-id": "io.quarkus",
             "artifact-id": "quarkus-hibernate-search-elasticsearch",
-            "version": "999-SNAPSHOT",
+            "version": "1.1.2-SNAPSHOT",
             "description": "Automatically index your Hibernate entities in Elasticsearch"
         },
         {
@@ -321,7 +321,7 @@
             },
             "group-id": "io.quarkus",
             "artifact-id": "quarkus-hibernate-validator",
-            "version": "999-SNAPSHOT",
+            "version": "1.1.2-SNAPSHOT",
             "description": "Validate data coming to your REST endpoints"
         },
         {
@@ -336,7 +336,7 @@
             },
             "group-id": "io.quarkus",
             "artifact-id": "quarkus-infinispan-client",
-            "version": "999-SNAPSHOT",
+            "version": "1.1.2-SNAPSHOT",
             "description": "Connect to the Infinispan data grid for distributed caching"
         },
         {
@@ -348,7 +348,7 @@
             },
             "group-id": "io.quarkus",
             "artifact-id": "quarkus-infinispan-embedded",
-            "version": "999-SNAPSHOT",
+            "version": "1.1.2-SNAPSHOT",
             "description": "Run an embedded Infinispan data grid server for distributed caching"
         },
         {
@@ -360,7 +360,7 @@
             },
             "group-id": "io.quarkus",
             "artifact-id": "quarkus-jaeger",
-            "version": "999-SNAPSHOT",
+            "version": "1.1.2-SNAPSHOT",
             "description": "Trace your services with Jaeger"
         },
         {
@@ -374,7 +374,7 @@
             },
             "group-id": "io.quarkus",
             "artifact-id": "quarkus-jdbc-postgresql",
-            "version": "999-SNAPSHOT",
+            "version": "1.1.2-SNAPSHOT",
             "description": "PostgreSQL database connector"
         },
         {
@@ -388,7 +388,7 @@
             },
             "group-id": "io.quarkus",
             "artifact-id": "quarkus-jdbc-h2",
-            "version": "999-SNAPSHOT",
+            "version": "1.1.2-SNAPSHOT",
             "description": "H2 database connector"
         },
         {
@@ -402,7 +402,7 @@
             },
             "group-id": "io.quarkus",
             "artifact-id": "quarkus-jdbc-mariadb",
-            "version": "999-SNAPSHOT",
+            "version": "1.1.2-SNAPSHOT",
             "description": "MariaDB database connector"
         },
         {
@@ -417,7 +417,7 @@
             },
             "group-id": "io.quarkus",
             "artifact-id": "quarkus-jdbc-mssql",
-            "version": "999-SNAPSHOT",
+            "version": "1.1.2-SNAPSHOT",
             "description": "Microsoft SQL Server database connector"
         },
         {
@@ -431,7 +431,7 @@
             },
             "group-id": "io.quarkus",
             "artifact-id": "quarkus-jdbc-mysql",
-            "version": "999-SNAPSHOT",
+            "version": "1.1.2-SNAPSHOT",
             "description": "MySQL database connector"
         },
         {
@@ -439,7 +439,7 @@
             },
             "group-id": "io.quarkus",
             "artifact-id": "quarkus-jdbc-derby",
-            "version": "999-SNAPSHOT",
+            "version": "1.1.2-SNAPSHOT",
             "name": "Quarkus - JDBC - Derby - Runtime",
             "description": "Derby database connector"
         },
@@ -452,7 +452,7 @@
             },
             "group-id": "io.quarkus",
             "artifact-id": "quarkus-kafka-client",
-            "version": "999-SNAPSHOT",
+            "version": "1.1.2-SNAPSHOT",
             "description": "A client for Apache Kafka"
         },
         {
@@ -465,7 +465,7 @@
             },
             "group-id": "io.quarkus",
             "artifact-id": "quarkus-kafka-streams",
-            "version": "999-SNAPSHOT",
+            "version": "1.1.2-SNAPSHOT",
             "description": "Implement stream processing applications based on Apache Kafka"
         },
         {
@@ -483,7 +483,7 @@
             },
             "group-id": "io.quarkus",
             "artifact-id": "quarkus-smallrye-health",
-            "version": "999-SNAPSHOT",
+            "version": "1.1.2-SNAPSHOT",
             "description": "Monitor service health"
         },
         {
@@ -499,7 +499,7 @@
             },
             "group-id": "io.quarkus",
             "artifact-id": "quarkus-smallrye-jwt",
-            "version": "999-SNAPSHOT",
+            "version": "1.1.2-SNAPSHOT",
             "description": "Secure your applications with JSON Web Token"
         },
         {
@@ -516,7 +516,7 @@
             },
             "group-id": "io.quarkus",
             "artifact-id": "quarkus-smallrye-context-propagation",
-            "version": "999-SNAPSHOT",
+            "version": "1.1.2-SNAPSHOT",
             "description": "SmallRye Context Propagation"
         },
         {
@@ -534,7 +534,7 @@
             },
             "group-id": "io.quarkus",
             "artifact-id": "quarkus-smallrye-reactive-streams-operators",
-            "version": "999-SNAPSHOT",
+            "version": "1.1.2-SNAPSHOT",
             "description": "Operators for Reactive Streams programming"
         },
         {
@@ -551,7 +551,7 @@
             },
             "group-id": "io.quarkus",
             "artifact-id": "quarkus-smallrye-reactive-type-converters",
-            "version": "999-SNAPSHOT",
+            "version": "1.1.2-SNAPSHOT",
             "description": "Converters for reactive types from various reactive programming libraries"
         },
         {
@@ -566,7 +566,7 @@
             },
             "group-id": "io.quarkus",
             "artifact-id": "quarkus-smallrye-reactive-messaging",
-            "version": "999-SNAPSHOT",
+            "version": "1.1.2-SNAPSHOT",
             "description": "Asynchronous messaging for Reactive Streams"
         },
         {
@@ -581,7 +581,7 @@
             },
             "group-id": "io.quarkus",
             "artifact-id": "quarkus-smallrye-reactive-messaging-kafka",
-            "version": "999-SNAPSHOT",
+            "version": "1.1.2-SNAPSHOT",
             "description": "Kafka reactive messaging connector"
         },
         {
@@ -595,7 +595,7 @@
             },
             "group-id": "io.quarkus",
             "artifact-id": "quarkus-smallrye-reactive-messaging-amqp",
-            "version": "999-SNAPSHOT",
+            "version": "1.1.2-SNAPSHOT",
             "description": "AMQP reactive messaging connector"
         },
         {
@@ -608,7 +608,7 @@
             },
             "group-id": "io.quarkus",
             "artifact-id": "quarkus-smallrye-reactive-messaging-mqtt",
-            "version": "999-SNAPSHOT",
+            "version": "1.1.2-SNAPSHOT",
             "description": "MQTT reactive messaging connector"
         },
         {
@@ -626,7 +626,7 @@
             },
             "group-id": "io.quarkus",
             "artifact-id": "quarkus-smallrye-metrics",
-            "version": "999-SNAPSHOT",
+            "version": "1.1.2-SNAPSHOT",
             "description": "Extract metrics out of your services"
         },
         {
@@ -641,7 +641,7 @@
             },
             "group-id": "io.quarkus",
             "artifact-id": "quarkus-smallrye-openapi",
-            "version": "999-SNAPSHOT",
+            "version": "1.1.2-SNAPSHOT",
             "description": "Document your REST APIs with OpenAPI - comes with Swagger UI"
         },
         {
@@ -658,7 +658,7 @@
             },
             "group-id": "io.quarkus",
             "artifact-id": "quarkus-smallrye-opentracing",
-            "version": "999-SNAPSHOT",
+            "version": "1.1.2-SNAPSHOT",
             "description": "Trace your services with Jaeger"
         },
         {
@@ -673,7 +673,7 @@
             },
             "group-id": "io.quarkus",
             "artifact-id": "quarkus-rest-client",
-            "version": "999-SNAPSHOT",
+            "version": "1.1.2-SNAPSHOT",
             "description": "Call REST services"
         },
         {
@@ -681,7 +681,7 @@
             },
             "group-id": "io.quarkus",
             "artifact-id": "quarkus-resteasy-common",
-            "version": "999-SNAPSHOT",
+            "version": "1.1.2-SNAPSHOT",
             "name": "Quarkus - RESTEasy - Common - Runtime",
             "description": "REST framework implementing JAX-RS and more"
         },
@@ -699,7 +699,7 @@
             },
             "group-id": "io.quarkus",
             "artifact-id": "quarkus-resteasy",
-            "version": "999-SNAPSHOT",
+            "version": "1.1.2-SNAPSHOT",
             "description": "REST framework implementing JAX-RS and more"
         },
         {
@@ -717,7 +717,7 @@
             },
             "group-id": "io.quarkus",
             "artifact-id": "quarkus-resteasy-jackson",
-            "version": "999-SNAPSHOT",
+            "version": "1.1.2-SNAPSHOT",
             "description": "Jackson serialization support for RESTEasy"
         },
         {
@@ -736,7 +736,7 @@
             },
             "group-id": "io.quarkus",
             "artifact-id": "quarkus-resteasy-jsonb",
-            "version": "999-SNAPSHOT",
+            "version": "1.1.2-SNAPSHOT",
             "description": "JSON-B serialization support for RESTEasy"
         },
         {
@@ -744,7 +744,7 @@
             },
             "group-id": "io.quarkus",
             "artifact-id": "quarkus-resteasy-jaxb",
-            "version": "999-SNAPSHOT",
+            "version": "1.1.2-SNAPSHOT",
             "name": "Quarkus - RESTEasy - JAXB - Runtime",
             "description": "XML serialization support for RESTEasy"
         },
@@ -753,7 +753,7 @@
             },
             "group-id": "io.quarkus",
             "artifact-id": "quarkus-resteasy-server-common",
-            "version": "999-SNAPSHOT",
+            "version": "1.1.2-SNAPSHOT",
             "name": "Quarkus - RESTEasy - Server common - Runtime",
             "description": "RESTEasy Server common"
         },
@@ -773,7 +773,7 @@
             },
             "group-id": "io.quarkus",
             "artifact-id": "quarkus-narayana-jta",
-            "version": "999-SNAPSHOT",
+            "version": "1.1.2-SNAPSHOT",
             "description": "JTA transaction support (included in Hibernate ORM)"
         },
         {
@@ -787,7 +787,7 @@
             },
             "group-id": "io.quarkus",
             "artifact-id": "quarkus-undertow",
-            "version": "999-SNAPSHOT",
+            "version": "1.1.2-SNAPSHOT",
             "description": "Support for servlets"
         },
         {
@@ -803,7 +803,7 @@
             },
             "group-id": "io.quarkus",
             "artifact-id": "quarkus-smallrye-fault-tolerance",
-            "version": "999-SNAPSHOT",
+            "version": "1.1.2-SNAPSHOT",
             "description": "Define fault-tolerant services"
         },
         {
@@ -818,7 +818,7 @@
             },
             "group-id": "io.quarkus",
             "artifact-id": "quarkus-vertx-core",
-            "version": "999-SNAPSHOT",
+            "version": "1.1.2-SNAPSHOT",
             "description": "Vert.x Core"
         },
         {
@@ -834,7 +834,7 @@
             },
             "group-id": "io.quarkus",
             "artifact-id": "quarkus-vertx",
-            "version": "999-SNAPSHOT",
+            "version": "1.1.2-SNAPSHOT",
             "description": "Reactive application toolkit"
         },
         {
@@ -850,7 +850,7 @@
             },
             "group-id": "io.quarkus",
             "artifact-id": "quarkus-vertx-http",
-            "version": "999-SNAPSHOT",
+            "version": "1.1.2-SNAPSHOT",
             "description": "Vert.x HTTP"
         },
         {
@@ -858,7 +858,7 @@
             },
             "group-id": "io.quarkus",
             "artifact-id": "quarkus-vertx-web",
-            "version": "999-SNAPSHOT",
+            "version": "1.1.2-SNAPSHOT",
             "name": "Quarkus - Vert.x Web - Runtime",
             "description": "Vert.x Web"
         },
@@ -877,7 +877,7 @@
             },
             "group-id": "io.quarkus",
             "artifact-id": "quarkus-reactive-pg-client",
-            "version": "999-SNAPSHOT",
+            "version": "1.1.2-SNAPSHOT",
             "description": "A reactive client for the PostgreSQL database"
         },
         {
@@ -895,7 +895,7 @@
             },
             "group-id": "io.quarkus",
             "artifact-id": "quarkus-reactive-mysql-client",
-            "version": "999-SNAPSHOT",
+            "version": "1.1.2-SNAPSHOT",
             "description": "A reactive client for the MySQL database"
         },
         {
@@ -909,7 +909,7 @@
             },
             "group-id": "io.quarkus",
             "artifact-id": "quarkus-mailer",
-            "version": "999-SNAPSHOT",
+            "version": "1.1.2-SNAPSHOT",
             "description": "Send emails"
         },
         {
@@ -924,7 +924,7 @@
             },
             "group-id": "io.quarkus",
             "artifact-id": "quarkus-mongodb-client",
-            "version": "999-SNAPSHOT",
+            "version": "1.1.2-SNAPSHOT",
             "description": "An imperative and reactive client for MongoDB"
         },
         {
@@ -943,7 +943,7 @@
             },
             "group-id": "io.quarkus",
             "artifact-id": "quarkus-undertow-websockets",
-            "version": "999-SNAPSHOT",
+            "version": "1.1.2-SNAPSHOT",
             "description": "WebSocket support"
         },
         {
@@ -958,7 +958,7 @@
             },
             "group-id": "io.quarkus",
             "artifact-id": "quarkus-scheduler",
-            "version": "999-SNAPSHOT",
+            "version": "1.1.2-SNAPSHOT",
             "description": "Schedule jobs and tasks"
         },
         {
@@ -971,7 +971,7 @@
             },
             "group-id": "io.quarkus",
             "artifact-id": "quarkus-spring-di",
-            "version": "999-SNAPSHOT",
+            "version": "1.1.2-SNAPSHOT",
             "description": "Define your dependency injection with Spring DI"
         },
         {
@@ -984,7 +984,7 @@
             },
             "group-id": "io.quarkus",
             "artifact-id": "quarkus-spring-web",
-            "version": "999-SNAPSHOT",
+            "version": "1.1.2-SNAPSHOT",
             "description": "Use Spring Web annotations to create your REST services"
         },
         {
@@ -997,7 +997,7 @@
             },
             "group-id": "io.quarkus",
             "artifact-id": "quarkus-spring-data-jpa",
-            "version": "999-SNAPSHOT",
+            "version": "1.1.2-SNAPSHOT",
             "description": "Use Spring Data JPA annotations to create your data access layer"
         },
         {
@@ -1010,7 +1010,7 @@
             },
             "group-id": "io.quarkus",
             "artifact-id": "quarkus-swagger-ui",
-            "version": "999-SNAPSHOT",
+            "version": "1.1.2-SNAPSHOT",
             "description": "Swagger UI"
         },
         {
@@ -1023,7 +1023,7 @@
             },
             "group-id": "io.quarkus",
             "artifact-id": "quarkus-kotlin",
-            "version": "999-SNAPSHOT",
+            "version": "1.1.2-SNAPSHOT",
             "description": "Write your services in Kotlin"
         },
         {
@@ -1037,7 +1037,7 @@
             },
             "group-id": "io.quarkus",
             "artifact-id": "quarkus-amazon-lambda",
-            "version": "999-SNAPSHOT",
+            "version": "1.1.2-SNAPSHOT",
             "description": "AWS Lambda support"
         },
         {
@@ -1045,7 +1045,7 @@
             },
             "group-id": "io.quarkus",
             "artifact-id": "quarkus-amazon-lambda-http",
-            "version": "999-SNAPSHOT",
+            "version": "1.1.2-SNAPSHOT",
             "name": "Quarkus - Amazon Lambda HTTP - Runtime",
             "description": "Allows Java applications written for a servlet container to run in AWS Lambda"
         },
@@ -1061,7 +1061,7 @@
             },
             "group-id": "io.quarkus",
             "artifact-id": "quarkus-amazon-dynamodb",
-            "version": "999-SNAPSHOT",
+            "version": "1.1.2-SNAPSHOT",
             "description": "A client for the Amazon DynamoDB datastore"
         },
         {
@@ -1069,7 +1069,7 @@
             },
             "group-id": "io.quarkus",
             "artifact-id": "quarkus-azure-functions-http",
-            "version": "999-SNAPSHOT",
+            "version": "1.1.2-SNAPSHOT",
             "name": "Quarkus - HTTP Azure Functions - Runtime",
             "description": "This package contains all Java interfaces and annotations to interact with Microsoft Azure functions runtime."
         },
@@ -1083,7 +1083,7 @@
             },
             "group-id": "io.quarkus",
             "artifact-id": "quarkus-kubernetes",
-            "version": "999-SNAPSHOT",
+            "version": "1.1.2-SNAPSHOT",
             "description": "Generate Kubernetes resources from annotations"
         },
         {
@@ -1095,7 +1095,7 @@
             },
             "group-id": "io.quarkus",
             "artifact-id": "quarkus-kubernetes-client",
-            "version": "999-SNAPSHOT",
+            "version": "1.1.2-SNAPSHOT",
             "description": "Interact with Kubernetes and develop Kubernetes Operators"
         },
         {
@@ -1110,7 +1110,7 @@
             },
             "group-id": "io.quarkus",
             "artifact-id": "quarkus-kogito",
-            "version": "999-SNAPSHOT",
+            "version": "1.1.2-SNAPSHOT",
             "description": "Add business automation capabilities with Kogito"
         },
         {
@@ -1123,7 +1123,7 @@
             },
             "group-id": "io.quarkus",
             "artifact-id": "quarkus-tika",
-            "version": "999-SNAPSHOT",
+            "version": "1.1.2-SNAPSHOT",
             "description": "Extract data from your documents with Apache Tika"
         },
         {
@@ -1138,7 +1138,7 @@
             },
             "group-id": "io.quarkus",
             "artifact-id": "quarkus-neo4j",
-            "version": "999-SNAPSHOT",
+            "version": "1.1.2-SNAPSHOT",
             "description": "A client for the Neo4j graph datastore"
         },
         {
@@ -1150,7 +1150,7 @@
             },
             "group-id": "io.quarkus",
             "artifact-id": "quarkus-scala",
-            "version": "999-SNAPSHOT",
+            "version": "1.1.2-SNAPSHOT",
             "description": "Write your services in Scala"
         },
         {
@@ -1162,7 +1162,7 @@
             },
             "group-id": "io.quarkus",
             "artifact-id": "quarkus-jgit",
-            "version": "999-SNAPSHOT",
+            "version": "1.1.2-SNAPSHOT",
             "description": "Access your Git repositories"
         },
         {
@@ -1182,7 +1182,7 @@
             },
             "group-id": "io.quarkus",
             "artifact-id": "quarkus-narayana-stm",
-            "version": "999-SNAPSHOT",
+            "version": "1.1.2-SNAPSHOT",
             "description": "Software Transactional Memory (stm) support"
         },
         {
@@ -1196,7 +1196,7 @@
             },
             "group-id": "io.quarkus",
             "artifact-id": "quarkus-elytron-security-jdbc",
-            "version": "999-SNAPSHOT",
+            "version": "1.1.2-SNAPSHOT",
             "description": "Secure your applications with username/password stored in a database"
         },
         {
@@ -1210,7 +1210,7 @@
             },
             "group-id": "io.quarkus",
             "artifact-id": "quarkus-vault",
-            "version": "999-SNAPSHOT",
+            "version": "1.1.2-SNAPSHOT",
             "description": "Store your credentials securely in HashiCorp Vault"
         }
     ]
